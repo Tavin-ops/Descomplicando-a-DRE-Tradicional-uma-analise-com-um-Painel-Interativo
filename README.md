@@ -58,5 +58,5 @@ Ferramentas: Power BI, Excel e IA (Gemini).
 Uso da Inteligência Artificial: a IA foi usada para auxiliar na criação do dashboard e na revisão do texto. As demais atividades (fazer o dashboard, criação dos dados, montagem e revisão final do texto) foram feitas exclusivamente de forma humana por mim.
 
 
-NOTA: todos os dados foram criados exclusivamente para fins didáticos e para a realização deste trabalho.<img width="1624" height="732" alt="Captura de tela 2026-10-14 151943" src="https://github.com/user-attachments/assets/8bb87bd7-9ebe-4fe5-a10f-406f137c4486" />
-<img width="1624" height="732" alt="Captura de tela 2026-10-14 151943" src="https://github.com/user-attachments/assets/925f4f03-f52c-41da-84b9-6919f69195aa" />
+NOTA: todos os dados foram criados exclusivamente para fins didáticos e para a realização deste trabalho.
+
