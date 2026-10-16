@@ -49,9 +49,9 @@ O gráfico de cascata, quando aplicado a uma DRE no Power BI, começa mostrando 
 
 Dados: 
 
-DRE (fictícia): será disponibilizado em breve.
+DRE (fictícia): [Baixar planilha]([url](https://docs.google.com/spreadsheets/d/1ymnz01T6WLV0DYSieNxF1SqR4QVEoqWY/edit?usp=drive_link&ouid=103852350602804580069&rtpof=true&sd=true))
 
-Dashboard: Baixar repositório Power BI
+Dashboard:[ Baixar repositório Power BI]([url](https://app.powerbi.com/groups/me/reports/54e40d0e-9ad9-4e21-98a1-9aa75d29a6f2/2a0f4ac5087341103efb?language=pt-BR&experience=power-bi))
 
 Ferramentas: Power BI, Excel e IA (Gemini).
 
